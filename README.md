@@ -90,16 +90,6 @@ Each analyzed article will have:
 
 ---
 
-## 🧪 Example Commands
-
-Run web scraping only:
-```python
-# In main_execution.py
-# Uncomment these lines:
-# scraper = WebScraper(config.INPUT_FILE)
-# scraper.run()
-```
-
 Run analysis:
 ```bash
 python main_execution.py
@@ -111,12 +101,6 @@ python main_execution.py
 
 - Ensure `StopWords` and `MasterDictionary` folders are populated with appropriate `.txt` files (e.g., `positive-words.txt`, `negative-words.txt`, etc.).
 - Scraping is based on typical article structures, but may need adjustment for non-standard websites.
-
----
-
-## 👨‍💻 Author
-
-Built by Ritik 🚀
 
 ---
 

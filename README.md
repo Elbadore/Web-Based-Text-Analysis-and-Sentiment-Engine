@@ -86,7 +86,7 @@ Each analyzed article will have:
 - `average_sentence_length`, `percentage_of_complex_words`
 - `fog_index`, `syllables_per_word`
 - `personal_pronouns`, `avg_word_length`
-- And more...
+- And more....
 
 ---
 

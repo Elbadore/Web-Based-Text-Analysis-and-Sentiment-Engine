@@ -90,13 +90,6 @@ Each analyzed article will have:
 
 ---
 
-Run analysis:
-```bash
-python main_execution.py
-```
-
----
-
 ## 💡 Notes
 
 - Ensure `StopWords` and `MasterDictionary` folders are populated with appropriate `.txt` files (e.g., `positive-words.txt`, `negative-words.txt`, etc.).
